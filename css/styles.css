@@ -1,0 +1,105 @@
+body{
+    margin : 0px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'East Sea Dokdo', cursive;   
+    font-size: 5.62rem;
+
+    padding-top: 100px;
+    margin: 0px;
+    width: 5%;
+    margin:0 auto 0 auto;
+    position:relative;
+    top:40%;
+    color:#66BFBF;
+}
+
+.presentacion{
+    text-align:center;
+    width:400px;
+}
+
+.presentacion2{
+   /* margin-top: 0.5em;*/
+    color:#66BFBF;
+    font-weight: normal;
+    line-height: 1;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'East Sea Dokdo', cursive;   
+    font-size: 3rem; 
+}
+
+a{
+    color:#11999E;
+}
+
+.main{
+    background-color: #EAF6F6;
+    text-align:center;
+}
+
+
+
+/*
+.middle-container{
+    height: 200px;
+    width:200px;
+    background-color: red;
+    border-width: 20px;
+}
+*/
+/*
+.bottom-container{
+    
+    height: 200px;
+    width:200px;
+    background-color: blue;
+
+}
+*/
+.top-container{
+    background-color: cadetblue;
+    padding: 20px;
+    border-width: 10px;
+    margin: 0px;
+    height: 200px;
+    width: 200px;
+}
+
+h3{
+    color:#11999E
+}
+.nube-inferior{
+    position: absolute;
+    right:65%;
+}
+
+.nube-superior{
+    position:absolute;
+    left:65%;
+    top:5%;
+}
+
+.skill-row{
+    width: 50%; /*al cambiar width pierde el text align */
+    position:relative;
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height:2;
+}
+
+.lapiz{
+    display:block;
+    float:left;
+    width: 15%;
+    margin-right:15px;
+}
+/*
+.texto-habilidad{
+    text-align:left;
+}
+*/                                                                                                                               
